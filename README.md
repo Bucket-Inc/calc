@@ -18,5 +18,13 @@ calc <expression>
 
 ```
 
+# Build
+
+To build this Go project:
+```bash
+go build .
+```
+If you don't want to build, there will be builds in releases.
+
 ## Tested on:
 - Linux (Debian 12)
